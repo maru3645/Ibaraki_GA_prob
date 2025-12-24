@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Experiment_plan>
+<Simulation experiment="Headless_test" finalStep="15010" id="717" sourcePath="/home/oacis/gama/Ibaraki_GA_prob/models/Main.gaml">
+<Parameters>
+
+</Parameters>
+<Outputs></Outputs></Simulation></Experiment_plan>
